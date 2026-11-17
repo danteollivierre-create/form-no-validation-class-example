@@ -15,6 +15,11 @@
 
     var_dup(is_numeric($age));
 
+    echo "<br>";
+    echo "<br>";
+
+    var_dump(isset($name));
+
     
     
     
